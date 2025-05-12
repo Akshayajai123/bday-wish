@@ -25,7 +25,6 @@ Files
 index.html: The main page of the website.
 note.html: Contains the full birthday message.
 
-**project link:** https://akshayajai123.github.io/bday-wish/
 
 **Credits**
 Created by Akshaya.
