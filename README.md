@@ -1,7 +1,7 @@
 **Project:**
 Birthday Greeting Website
 
-This project is a simple website created to send a birthday greeting. It features a fun, colorful design with balloons and confetti.
+This project is a simple website created as a personal birthday greeting for my brother. It features a fun, colorful design with balloons and confetti.
 
 **Overview**
 The website displays a birthday message and includes the following elements:
