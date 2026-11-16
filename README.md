@@ -75,6 +75,7 @@ for i in range(h):
             if 0 <= ni < h and 0 <= nj < w:
                 if img[ni, nj] == pixel:
                     count8 += 1
+                    
 
         print(i, j, count4, count8)
 
