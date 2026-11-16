@@ -76,7 +76,7 @@ for i in range(h):
                 if img[ni, nj] == pixel:
                     count8 += 1
                     
-
+///////////////////////////////////////////////////////////////
         print(i, j, count4, count8)
 
 cv2.imshow("Binary Image", img)
